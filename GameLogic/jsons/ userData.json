@@ -1,0 +1,38 @@
+{
+    "name": "Steve",
+    "Hp": 20,
+    "maxHp": 20,
+    "weapon": {
+        "weaponName": "fist",
+        "weaponDamage": 10
+    },
+    "inventory": [
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            1,
+            1
+        ]
+    ],
+    "location": "the blind forest",
+    "ability": {
+        "speed": 3,
+        "careless": 4,
+        "armor": 9,
+        "stress": 30
+    }
+}
